@@ -1,0 +1,40 @@
+body { background-color:#00ffff;
+  font-family: sans-serif;  
+  line-height: 35px;
+}
+.fl{ width: 100%;
+height: 40%;
+float: right;}
+
+.h{ float:right;
+margin: 2px;
+background-color: #1C6580;
+}
+.d{ color: black;
+  background-color: lightslategrey;
+}
+
+.m{padding-left:50%;
+}
+.t{width: 100%;
+  height: 40%;
+  float:top;
+}
+
+.b{width: 50%;
+  height: 20%;
+  float: left;
+}
+
+.a{width:50;
+  float: left;
+}
+.g{background-color:yellow;}
+
+.b1{color: yellow;
+  background-color: blueviolet;
+  
+}
+.t{background-color: #80486C;
+  
+}
